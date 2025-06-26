@@ -35,7 +35,7 @@ export function LinkTreeSection() {
       id: "whespc",
       title: "Visit WHESPC",
       description: "Wire harness + LED solutions for OEM and industrial clients",
-      url: "https://whespc.com",
+      url: "https://whespc.netlify.app",
       ariaLabel: "Visit WHESPC - Wire harness and LED solutions for OEM and industrial clients",
     },
   ];
